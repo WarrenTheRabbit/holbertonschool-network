@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This is a simple script to show how to use netstat to display TCP and UDP ports
+netstat -lp
